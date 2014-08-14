@@ -1,0 +1,16 @@
+{
+  "aws": {
+    "accessKeyId": "",
+    "secretAccessKey": "+9",
+    "region": "us-west-2"
+  },
+  "s3": {
+    "bucket": "triplan-prod"
+  },
+  "mysql": {
+    "host": "",
+    "database": "",
+    "user": "",
+    "password": ""
+  }
+}

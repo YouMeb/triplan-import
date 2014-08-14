@@ -1,0 +1,22 @@
+{
+  "name": "triplan-import",
+  "version": "0.0.0",
+  "description": "",
+  "main": "import.js",
+  "scripts": {
+    "start": "node --harmony ./main ./data",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Po-Ying Chen <poying.me@gmail.com> (陳柏穎)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.0.12",
+    "chalk": "^0.5.1",
+    "gm": "^1.16.0",
+    "mkdirp": "^0.5.0",
+    "mysql": "^2.4.2",
+    "sprintf": "^0.1.4",
+    "thunkify": "^2.1.2",
+    "uid2": "0.0.3"
+  }
+}
